@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.dll
+/.vs/ProjectEvaluation
+/.vs/UqsMathLib/DesignTimeBuild
+/.vs/UqsMathLib/FileContentIndex
+/.vs/UqsMathLib/v17/TestStore/0
+*.v2
+/Uqs.Arithmetic/bin/Debug/net8.0
+/Uqs.Arithmetic/obj
+/Uqs.Arithmetic.Tests.Unit/bin/Debug/net8.0
+/Uqs.Arithmetic.Tests.Unit/obj
+/.vs/UqsMathLib/v17
